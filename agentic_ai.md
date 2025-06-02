@@ -1,7 +1,7 @@
-# Task: Develop an Agentic Personal Assistant API (India-Focused)
+# Task: Develop an Agentic Personal Assistant API 
 
 ## 1. Introduction  
-You are to implement a FastAPI-based “Agentic Personal Assistant” service that can interpret a single natural-language instruction (in Hindi, English, or a mix), dynamically plan and invoke multiple Indian-focused services (restaurant search, reservation, messaging, reminders), handle failures and edge cases, and return a structured JSON summary of outcomes. This document outlines all functional and non-functional requirements, architectural guidelines, and deliverables needed for you to build, test, and deploy the project.
+You are to implement a FastAPI-based “Agentic Personal Assistant” service that can interpret a single natural-language instruction (in Tamil, English, or a mix), dynamically plan and invoke multiple Indian-focused services (restaurant search, reservation, messaging, reminders), handle failures and edge cases, and return a structured JSON summary of outcomes. This document outlines all functional and non-functional requirements, architectural guidelines, and deliverables needed for you to build, test, and deploy the project.
 
 ---
 
